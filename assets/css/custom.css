@@ -1,3 +1,16 @@
+.profile-content{
+    text-align: center;
+}
+
+.exp_time{
+background-color: #778492;
+    color: white;
+    padding: 5px;
+    display: inline;}
+
+.secondary{
+    float:right;
+}
 .timeline {
     list-style: none;
     padding: 20px 0 20px;
