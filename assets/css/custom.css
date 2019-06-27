@@ -148,6 +148,12 @@ background-color: #778492;
 .timeline-body > p + p {
     margin-top: 5px;
 }
+.pdf-button{
+    background:#3aaa64 !important
+}
+.pdf-button:hover{
+    background:#2d844e !important
+}
 
 
 @media (max-width: 1199px) {
